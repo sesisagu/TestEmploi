@@ -1,0 +1,35 @@
+/* Vos customisations des classes de Bootstrap */
+
+@font-face {
+    font-family: 'Arvo';
+    src: url();
+}
+
+.jumbotron {
+    background-image: url("../images/hero-image.jpg");
+    background-repeat: no-repeat;
+}
+
+#academy {
+    color: red;
+}
+
+#academyBis {
+    color:red;
+    text-underline-offset: set;
+}
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
